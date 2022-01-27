@@ -55,7 +55,7 @@ and at the end WhatsApp Team deleted your account. DON'T BLAME me.
 
 No personal support will be provided / i won't spoon feed you. 
 If you need help
-you can contact 👇🏻👇🏻 
+you can contact blaze sama click on below logo
 ```
 **[![blaze sama](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/917721059975?text=Can%20you%20help%20bro)**
 
