@@ -1,4 +1,4 @@
-    # **Echidna : The Next Level anime WhatsApp BOTTO**
+ # **Echidna : The Next Level anime WhatsApp BOTTO**
 <div align="center">
 
  </a>
@@ -18,8 +18,6 @@
 </p>
  
 
-## Setup
-<div align="center"> 
 
 
 ## follow 🆔 blazesama_69 on insta 👇
@@ -58,7 +56,7 @@
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## DRIPS MEMES
+## blaze sama
     
 ### ⚠ Warning ⚠
 
@@ -70,13 +68,13 @@ and group management with some helpfull commands.
 
 If  you ended up spamming groups, getting reported left and right, 
 and you ended up in being fight with WhatsApp
-and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+and at the end WhatsApp Team deleted your account. DON'T BLAME me.
 
-No personal support will be provided / We won't spoon feed you. 
+No personal support will be provided / i won't spoon feed you. 
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/27634090203?text=Can%20you%20help%20bro)**
+**[![blaze sama](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/917721059975?text=Can%20you%20help%20bro)**
 
 
  
