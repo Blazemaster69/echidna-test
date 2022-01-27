@@ -10,18 +10,18 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/vUdEZMv.jpg";
+    r_text[0] = "https://i.imgur.com/2JY3dpO.jpg";
     
     
     var i = Math.floor(1*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━✨️*QUEEN ANGELLA*✨️━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━✨️*Echidna*✨️━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 QUEEN ANGELLA 𝐛𝐨𝐭.
-            *ANGELLA*
+konnichiwa 👋 𝐈 𝐚𝐦 the witch of greed Echidna.
+            *lets have some ☕ tea shall we?*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -34,7 +34,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🍙𝙐𝙨𝙚➜ Downloads video from YouTube link.
 
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <link>
-🍙𝙐𝙨𝙚➜   Downloads content from instagram.
+🍙𝙐𝙨𝙚➜   currently unavailable wait for update.
 
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<text>
 🍙𝙐𝙨𝙚➜   Gives you YT links.
@@ -79,7 +79,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
 
 
-■□■□■□■□■□ANGELLA■□■□■□■□■□
+■□■□■□■□■□Echidna■□■□■□■□■□
 
 
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
@@ -126,7 +126,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️anime angella
 
 
-■□■□■□■□■ANGELLA□■□■□■□■□■□
+■□■□■□■□■Echidna□■□■□■□■□■□
 
 
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
@@ -142,7 +142,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ⚠️ex  attp Angella
 
 
-■□■□■□■□■ANGELLA□■□■□■□■□■□
+■□■□■□■□■Echidna□■□■□■□■□■□
 
 
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -activate
@@ -154,8 +154,9 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 👸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ - List 
 🍙𝙐𝙨𝙚➜ For more commands 
 ■□■□■□■□■□■□■□■□■□■□
-═════💢ANGELLA💢═════
-▣▣▣▣▣▣dripsmemes▣▣▣▣▣▣
+═════💢Ehidna by ©blaze sama💢═════
+follow 🆔 blazesama_69 on insta 👇
+link : https://www.instagram.com/blazesama_69
 
 `}) 
 
