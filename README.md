@@ -1,4 +1,4 @@
-# **Echidna : The Next Level anime WhatsApp BOTTO**
+    # **Echidna : The Next Level anime WhatsApp BOTTO**
 <div align="center">
 
  </a>
@@ -16,25 +16,15 @@
   <p align="center">
 <img src=https://w0.peakpx.com/wallpaper/529/724/HD-wallpaper-anime-re-zero-starting-life-in-another-world-echidna-re-zero-subaru-natsuki.jpg>
 </p>
-  <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
-</p>
-</div>
-<p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
-</p>
+ 
 
 ## Setup
 <div align="center"> 
 
 
-## Subcribe to my channel for more updates 👇
+## follow 🆔 blazesama_69 on insta 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g)
+  link : https://www.instagram.com/blazesama_69
 
 
 
