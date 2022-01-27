@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Angella*:  ```" + msg + "```"
+    return "✅ *Echidna*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Angella*:  ```" + msg + "```"
+    return "🛑 *Echidna*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Angella*:  ```" + msg + "```"
+    return "⏺️ *Echidna*:  ```" + msg + "```"
 }
 
 
