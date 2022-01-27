@@ -1,7 +1,7 @@
 {
-    "name": "Queen Angella",
-    "description": "Queen Angella - Whatsapp Bot",
-    "logo": "https://i.imgur.com/wvTMw09.jpg",
+    "name": "Echidna",
+    "description": "Echidna - Anime Whatsapp Bot",
+    "logo": "https://i.pinimg.com/236x/78/99/9b/78999bb252d23d1ae57181e23aa6d0bc.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Blazemaster69/Echidna",
     "website":   "https://t.me/phaticusthiccy",
@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "ZIM_CODE": {
-            "description": "Asena session changed! Type your Angella code here.",
+            "description": "Asena session changed! Type your echidna code here.",
             "required": true
         },
         "SUDO": {
